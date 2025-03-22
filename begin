@@ -1,3 +1,4 @@
+String password = props.getProperty("db.password");
 } catch (IOException e) {
 try {
 props.load(fs);
