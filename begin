@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 props.load(fs);
 Class.forName(driverClass);
 BufferedWriter out = null;
